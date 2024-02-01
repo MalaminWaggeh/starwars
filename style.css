@@ -1,0 +1,12 @@
+body {
+    background-color: white;
+  }
+  
+  .App-header h1 {
+    text-align: center;
+  }
+  
+
+  .custom-card {
+    height: 150px; 
+  }
